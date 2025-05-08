@@ -8,7 +8,7 @@
 📚 Always learning: Exploring data engineering and machine learning basics.  
 📁 Check out my portfolio projects below — feedback is welcome!
 
-📬 Let's connect: [LinkedIn](www.linkedin.com/in/yashashree-bedre) 
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/yashashree-bedre) 
 
 
 <h3 align="left">Languages and Tools:</h3>
